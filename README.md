@@ -1,2 +1,2 @@
-# hello-world
-Hello World program in programming languages
+# Hello World
+Write Hello World program in programming languages
