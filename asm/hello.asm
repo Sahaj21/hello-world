@@ -1,6 +1,6 @@
 section .data
 string:     db 'Hello world!', 0Ah
-string_len: equ $ - str
+string_len: equ $ - string
 
 section .text                        
 global _start
