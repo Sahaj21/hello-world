@@ -8,6 +8,8 @@ class HelloWorld:
         self.sentence = sentence
 
     def print_function(self):
+	"""Prints Hello World
+	"""
         print(self.sentence)
 
 
