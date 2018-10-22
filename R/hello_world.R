@@ -1,3 +1,3 @@
 helloWorld <- "Hello, World!"
 
-print (myString)
+print (helloWorld)
