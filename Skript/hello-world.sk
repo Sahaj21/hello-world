@@ -1,0 +1,2 @@
+on script load:
+  send "Hello, world!" to console
