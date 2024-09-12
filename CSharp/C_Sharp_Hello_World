@@ -1,0 +1,15 @@
+using System;
+
+namespace C_Sharp_Hello_World {
+
+    class Hello_World {
+
+        static void Main(string[] args) {
+
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("#Hacktoberfest2018");
+            Console.ReadKey();
+
+        }
+    }
+}
